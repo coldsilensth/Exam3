@@ -1,0 +1,6 @@
+[Note{text='Заметка ', localDate=2022-12-11, typeOfNote=IDEA}title='Заметка'}
+, Duty{text='Заметка', localDate=2022-12-08, typeOfNote=DUTY, title='Долг Саши', sumDuty=2000.0}, Note{text='Заметка ', localDate=2022-07-01, typeOfNote=IDEA}title='Винкс'}
+, Contacts{text='Вернуть долг Алине', localDate=2022-12-08, typeOfNote=DUTY, numberPhone='0500654016', nameContact='Hashem', typeOfNumber=MOBILE}
+, Contacts{text='Купить молоко', localDate=2022-12-08, typeOfNote=IDEA, numberPhone='0500991121', nameContact='Andrey', typeOfNumber=MOBILE}
+, Contacts{text='Покормить кота', localDate=2022-12-08, typeOfNote=DUTY, numberPhone='0500121212', nameContact='Masha', typeOfNumber=MOBILE}
+]
